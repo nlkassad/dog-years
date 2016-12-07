@@ -1,5 +1,5 @@
-// get user age
-var myAge = 36;
+// get user age with prompt
+var myAge = prompt('What is your current age?');
 // create value for first two years
 var firstYears = (10.5 * 2);
 // calculate age in dog years less first two years
